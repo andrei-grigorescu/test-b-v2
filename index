@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lorem ipsum</title>
+  </head>
+  <body>
+    <div id="header">
+      <div class="container">
+        <a href="index.html">ESEU</a>
+        <ul>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="content">
+      <div class="container">
+      </div>
+    </div>
+    <div id="footer">
+      <div class="container">
+      </div>
+    </div>
+  </body>
+</html>
